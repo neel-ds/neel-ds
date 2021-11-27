@@ -1,16 +1,39 @@
-### Hi there 👋
+### Hi there, I'm <a href="https://linktr.ee/neel_patel" target="_blank" rel="noreferrer">Neel</a> 👋
 
-<!--
-**neel-ds/neel-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
 
-Here are some ideas to get you started:
+I'm a self learner💻, and artist 🎨!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</h2>
+
+I enjoy playing with data and bring most out of it.  Learning cognitive science to contribute and enhance the experience of human computer interaction. I love the challenges of researching and spending time to meet new people. 
+
+### 🤝 Connect with me:
+ <a href="https://www.linkedin.com/in/neel_ds/"><image src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" height="28"></a>&nbsp;&nbsp;<a href="https://t.me/neel_ds"><image src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/telegram.svg" height="28"></a>&nbsp;&nbsp;<a href="https://twitter.com/neelpatel_2"><image src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" height="28"></a>&nbsp;&nbsp;<a href="mailto:elsherlock00@gmail.com"><image src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" height="28"></a>&nbsp;&nbsp;
+
+## 🔭 I'm currently working on
+
+- Diversified Portfolio
+
+- Visualization dashboards using Tableau & Power BI
+
+-  My EDA skill
+
+- My storytelling skill
+
+## 🌱 I'm currently learning
+
+- Exploratory Data Analysis
+
+- Cognitive Science
+
+- Finance 101
+
+- ML algorithms
+
+
+## 📈 GitHub Stats
+
+[![Neel's github stats](https://github-readme-stats.vercel.app/api?username=neel-ds&show_icons=true&theme=tokyonight)](https://github.com/neel-ds)
+
+![Visitors Count](https://profile-counter.glitch.me/neel-ds/count.svg)
