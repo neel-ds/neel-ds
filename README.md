@@ -12,22 +12,9 @@ I enjoy playing with data and bring most out of it.  Learning cognitive science 
 
 - Diversified Portfolio
 
-- Visualization dashboards using Tableau & Power BI
+- ML & Deep learning projects
 
--  My EDA skill
-
-- My storytelling skill
-
-## 🌱 I'm currently learning
-
-- Exploratory Data Analysis
-
-- Cognitive Science
-
-- Finance 101
-
-- ML algorithms
-
+- Healthcare based services
 
 ## 📈 GitHub Stats
 
