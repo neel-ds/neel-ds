@@ -1,9 +1,9 @@
 ### Hi there, I'm <a href="https://linktr.ee/neel_patel" target="_blank" rel="noreferrer">Neel</a> 👋
 
 
-I'm a self learner and bootstrapper.👨🏻‍💻
+I'm a proactive learner and bootstrapper.👨🏻‍💻
 
-I enjoy exploring data and bringing the most out of it. I'm learning cognitive science to contribute to human-computer interaction and Artificial General Intelligence. I love the challenges of researching and investing time to meet new people. 
+I enjoy exploring data and bringing the most out of it. As well as a web3 enthusiast, I am actively exploring and building on multi-chain. I love the challenges of researching and investing time to meet new people. 
 
 ### 🤝 Connect with me:
 &nbsp;<a href="https://www.linkedin.com/in/neel_ds/"><image src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" height="28"></a>&nbsp;&nbsp;<a href="https://t.me/neel_ds"><image src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/telegram.svg" height="28"></a>&nbsp;&nbsp;<a href="https://twitter.com/neelpatel_2"><image src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" height="28"></a>&nbsp;&nbsp;<a href="mailto:neelp0980@gmail.com"><image src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" height="28"></a>&nbsp;&nbsp;
@@ -14,7 +14,7 @@ I enjoy exploring data and bringing the most out of it. I'm learning cognitive s
 
 - ML & Deep learning projects
 
-- Healthcare, Supply Chain & Logistics SaaS
+- Web3 projects
   
 ## 📈 GitHub Stats
 
