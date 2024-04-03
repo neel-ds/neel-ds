@@ -16,6 +16,9 @@
 
 | Name | Description | Source Code | Deployed at | Built at |
 |:----:|:------------|:----:|:-----------:|:----:|
+| OnlyFrames | A platform for creators to sell digital products (videos, e-books, images) via Farcaster Frames. Users can discover and purchase these digital assets by minting Access NFTs, which grant them access to the purchased content. | [Repo](https://github.com/Open-Sorcerer/onlyframes-ui) | [Vercel](https://onlyframes-ui-final.vercel.app/) | 🏅[ETHGlobal](https://ethglobal.com/showcase/onlyframes-pucwj) |
+| camp | A NFT membership marketplace for creators to create campaigns on Base | [Repo](https://github.com/neel-ds/camp) | [Vercel](https://camp-base.vercel.app/) | |
+| cNFT Frame | Built a cNFT minting Farcaster Frame on Solana using Underdog Protocol and Onchainkit | [Repo](https://github.com/neel-ds/cNFT-Frame-Boilerplate) | [Frame](https://warpcast.com/neelpatel/0x01b13772) |  |
 | Myriad | A new approach towards having actual fun with DAOs. It is a platform that allows you to create and participate in DAOs and also take them to Farcaster Frames which add a new layer of fun and excitement to the DAO experience. | [Repo](https://github.com/Open-Sorcerer/myriad) | [Vercel](https://myriad-zk.vercel.app/) | 🏅[ETHGlobal](https://ethglobal.com/showcase/myriad-ikrgt) |
 | Finn | Finn comes hand-in-hand with creating buckets consisting of tokens on multiple networks and investing in buckets with good market performance. It streamlines the process of investment with overall balanced high returns. | [Repo](https://github.com/neel-ds/finn) | [Vercel](https://eth-finn.vercel.app/) | 🏅[ETHIndia](https://devfolio.co/projects/finn-6e20) |
 | Semaphore-App | Implementation of Semaphore identity, groups and proof for anonymous group interaction | [Repo](https://github.com/neel-ds/semaphore-app) | |
@@ -44,10 +47,10 @@
 ### My Experiences 🙌
 
 <details>
-<summary>Software Developer at TrueZK</summary>
+<summary>DevRel Lead at BaseLayer</summary>
 <br>
 
-Bringing RAAS platform with post-quantum zkRollup [TrueZK](https://truezk.com/)
+Building Rollup-as-a-Service platform at [TrueZK](https://truezk.com/)
 </details>
 
 
@@ -55,7 +58,7 @@ Bringing RAAS platform with post-quantum zkRollup [TrueZK](https://truezk.com/)
 <summary>Frontend Intern at Dot Foundation</summary>
 <br>
 
-I developed two products for [DotNames](https://dotnames.me/), improved 3 products' UX, and fixed post-launch bugs. Worked closely with the BD team to deliver SDK and documentation with reproducible examples.
+Built three products for [DotNames](https://dotnames.me/), improved UX of products having 154k+ MAU, and fixed production bugs. Shipped quest app and points system of aggregator app. 
 </details>
   
 ### GitHub Stats
