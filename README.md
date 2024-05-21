@@ -16,7 +16,7 @@
 
 | Name | Description | Source Code | Deployed at | Built at |
 |:----:|:------------|:----:|:-----------:|:----:|
-| DegenAsk | A social Q&A app on Base, pay to ask & earn when others peek into the answers. | | [Site](https://www.degenask.me/) | |
+| DegenAsk | A social Q&A app on Base, pay to ask & earn when others peek into the answers. | | [Site](https://www.degenask.me/) | Based Fellowship |
 | OpinionSwap | Earn rewards by trading opinion on frames and create campaigns for opinion | | [Vercel](https://opinion-swap.vercel.app/) | 🏅[ETHGlobal](https://ethglobal.com/showcase/opinionswap-7i953) |
 | Dripcaster | It is a platform for Drip creators to sell digital products (videos, e-books, art) via Farcaster Frames. | [Repo](https://github.com/Open-Sorcerer/dripcaster) | [Site](https://dripcaster.xyz) | 🏅[Solana Renaissance Side Track](https://x.com/SuperteamEarn/status/1780936455206117883) |
 | OnlyFrames | A platform for creators to sell digital products (videos, e-books, images) via Farcaster Frames. Users can discover and purchase these digital assets by minting Access NFTs, which grant them access to the purchased content. | [Repo](https://github.com/Open-Sorcerer/onlyframes-ui) | [Vercel](https://onlyframes-ui-final.vercel.app/) | 🏅[ETHGlobal](https://ethglobal.com/showcase/onlyframes-pucwj) |
