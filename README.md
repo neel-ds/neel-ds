@@ -53,7 +53,7 @@
 <summary>DevRel Lead at BaseLayer</summary>
 <br>
 
-Building Rollup-as-a-Service platform at [TrueZK](https://truezk.com/)
+Built Rollup-as-a-Service platform, Docs and Faucet for [TrueZK](https://truezk.com/)
 </details>
 
 
