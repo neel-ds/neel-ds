@@ -1,12 +1,12 @@
-<h2> Hi there, I'm Neel 👋</h2> 
+<h2> Hey, I'm Neel 👋</h2> 
 
-&nbsp;<a href="https://twitter.com/0xneel2"><image src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" height="30"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/neel_ds/"><image src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" height="30"></a>&nbsp;&nbsp;<a href="https://t.me/neel_ds"><image src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" height="30"></a>&nbsp;&nbsp;<a href="mailto:neelp0980@gmail.com?subject=Hey%20Neel,%20From%20Anon"><image src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Mail_ru.svg" height="30"></a>&nbsp;&nbsp;
+&nbsp;<a href="https://twitter.com/neel_ds"><image src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" height="30"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/neel_ds/"><image src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" height="30"></a>&nbsp;&nbsp;<a href="https://t.me/neel_ds"><image src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" height="30"></a>&nbsp;&nbsp;<a href="mailto:neelp0980@gmail.com?subject=Hey%20Neel,%20From%20Anon"><image src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Mail_ru.svg" height="30"></a>&nbsp;&nbsp;
 
 ### About me 🧑🏻‍🚀
-<p> I am passionate about working with data-centric technologies. I have experience building smooth UI/UX and full-stack dApp in Web3. I also love to build around LLMs and experiment with Machine Learning and Deep Learning. And, I like to meet and connect with people who share my interests and passions for these technologies. </p>
+<p> I am passionate about working with data-centric technologies. I have experience building smooth UI/UX and full-stack dApp in Web3. I also love to build around LLMs and experiment with Machine Learning and Deep Learning. I like to network and connect with people who share my interests and passions for these technologies. </p>
 
-- 👨🏻‍💻 I am a developer who is actively building on blockchain
-- 🧙🏻‍♂️ Ask me about data in ML and Blockchain Development
+- 👨🏻‍💻 I am a developer who is actively shipping cool projects in the web3 ecosystem.
+- 🧙🏻‍♂️ Ask me about blockchain and products' UX
 - 🏅 Win after win, too many to tally. 
 
 ### Projects 🚣🏻‍♂️
@@ -50,10 +50,17 @@
 ### My Experiences 🙌
 
 <details>
+<summary>Full-Stack Engineer at Gator Labs</summary>
+<br>
+
+Building a gamified social consensus platform called Chomp, a fast-play quiz or trivia game.
+</details>
+
+<details>
 <summary>DevRel Lead at BaseLayer</summary>
 <br>
 
-Built Rollup-as-a-Service platform, Docs and Faucet for [TrueZK](https://truezk.com/)
+Built Rollup-as-a-Service platform, Docs, and Faucet for [TrueZK](https://truezk.com/)
 </details>
 
 
