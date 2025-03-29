@@ -1,18 +1,18 @@
 <h2> Hey, I'm Neel 👋</h2> 
 
-&nbsp;<a href="https://twitter.com/neel_ds"><image src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" height="30"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/neel_ds/"><image src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" height="30"></a>&nbsp;&nbsp;<a href="https://t.me/neel_ds"><image src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" height="30"></a>&nbsp;&nbsp;<a href="mailto:neelp0980@gmail.com?subject=Hey%20Neel,%20From%20Anon"><image src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Mail_ru.svg" height="30"></a>&nbsp;&nbsp;
+&nbsp;<a href="https://x.com/neel_ds"><image src="https://github.com/user-attachments/assets/3f0642ad-e39d-4e21-82d0-2f1a5639522f" height="30"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/neelds/"><image src="https://github.com/user-attachments/assets/9abddd35-c725-4edc-90b5-3e0f27d55043" height="30"></a>&nbsp;&nbsp;<a href="https://t.me/neel_ds"><image src="https://github.com/user-attachments/assets/629f724a-9c93-4e12-8eee-0da512928807" height="30"></a>&nbsp;&nbsp;<a href="mailto:neelp0980@gmail.com?subject=Hey%20Neel,%20From%20Anon"><image src="https://i.postimg.cc/bwd09BS4/gmail.png" height="30"></a>&nbsp;&nbsp;
 
 ### About me 🧑🏻‍🚀
-<p> I am passionate about working with data-centric technologies. I have experience building smooth UI/UX and full-stack dApp in Web3. I also love to build around LLMs and experiment with Machine Learning and Deep Learning. I like to network and connect with people who share my interests and passions for these technologies. </p>
+<p> I’m a Full-Stack Engineer focused on building high-performance products. I have experience building smooth UX, protocol integrations, and transaction optimizations across EVM and Solana. I also enjoy experimenting with agents and Machine Learning. </p>
 
-- 👨🏻‍💻 I am a developer who is actively shipping cool projects in the web3 ecosystem.
-- 🧙🏻‍♂️ Ask me about blockchain and products' UX
-- 🏅 Win after win, too many to tally. 
+- 👨🏻‍💻 Actively shipping and scaling products in the Web3 space
+- 🧙🏻‍♂️ Ask me about blockchain, UX, and building seamless experiences
+- 🏅 Too many wins to count — hackathons, launches, and gains
 
 ### Projects 🚣🏻‍♂️
 
 <details>
-	<summary>List of all projects I have built for Hackathons or Learning Purposes</summary>
+	<summary>List of projects I have built</summary>
 
 | Name | Description | Source Code | Deployed at | Built at |
 |:----:|:------------|:----:|:-----------:|:----:|
@@ -53,22 +53,22 @@
 <summary>Full-Stack Engineer at Gator Labs</summary>
 <br>
 
-Building a gamified social consensus platform called Chomp, a fast-play quiz or trivia game.
+Built a PWA and Telegram Bot for Chomp, a market-based oracle designed as a fast-play quiz and trivia game for users.
 </details>
 
 <details>
 <summary>DevRel Lead at BaseLayer</summary>
 <br>
 
-Built Rollup-as-a-Service platform, Docs, and Faucet for [TrueZK](https://truezk.com/)
+Built Rollup-as-a-Service platform, Docs, and Faucet for [TrueZK](https://truezk.com)
 </details>
 
 
 <details>
-<summary>Frontend Intern at Dot Foundation</summary>
+<summary>Frontend Engineer at Dot Foundation</summary>
 <br>
 
-Built three products for [DotNames](https://dotnames.me/), improved UX of products having 154k+ MAU, and fixed production bugs. Shipped quest app and points system of aggregator app. 
+Built three products for [DotNames](https://dotnames.me), improved UX of products having 154k+ MAU, and fixed production bugs. Shipped quest app and points system of aggregator app. 
 </details>
   
 ### GitHub Stats
