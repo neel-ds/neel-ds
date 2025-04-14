@@ -16,6 +16,15 @@
 
 | Name | Description | Source Code | Deployed at | Built at |
 |:----:|:------------|:----:|:-----------:|:----:|
+| MetEngine | Simplify Liquidity Providing on Solana |  | [Site](https://metengine.xyz) | |
+| Stackit | Invest into theme based stacks |  | [Site](https://stackit.exchange) | 🏅[Solana Hacker House](https://earn.superteam.fun/listings/bounty/blr-hh-demo-day) |
+| Lucy | AI agent that lives as an NFT, manage complex DeFi strategies through NLP while securing assets in its own Token Bound Account. | [Repo](https://github.com/Open-Sorcerer/lucy) | [Chat Link](https://converse.xyz/dm/0x5bC4D868eE465605AB4C233202D96f575ebc2964) | 🏅[ETHGlobal](https://ethglobal.com/showcase/lucy-bi61z) |
+| Wisebets | Trade Opinions via Farcaster Frame |  | [Site](https://wise-bets.vercel.app) | 🏅[Chainlink](https://devpost.com/software/wisebets) |
+| TapPay | A chain-agnostic mobile payment app using NFC cards for secure, seamless cross-chain transactions. | [Repo](https://github.com/Open-Sorcerer/TapPay) | NFC Card | 🏅[ETHGlobal](https://ethglobal.com/showcase/tappay-941om) |
+| Coolbets | A multi-chain platform for trading opinions | [Repo](https://github.com/Open-Sorcerer/coolbets) | [Site](https://coolbets.vercel.app) | 🏅[ETHGlobal](https://ethglobal.com/showcase/coolbets-rqmti) |
+| Capital Finance | A cross-chain yield aggregator maximizing USDC returns on Superchain | [Repo](https://github.com/Open-Sorcerer/capital-fi) | [Site](https://capital-fi.vercel.app/) | 🏅[ETHGlobal](https://ethglobal.com/showcase/capital-finance-175h6) |
+| Zap-Stark | A Telegram mini-app for seamless token swaps on Starknet | [Repo](https://github.com/Open-Sorcerer/zap-stark) | [Site](https://t.me/ZapStarkBot/lfg) | 🏅[ETHGlobal](https://ethglobal.com/showcase/zap-stark-8w8q6) |
+| GiftWrap | Gift Filecoin storage to friends via gift cards, pay in stablecoins or native ETH on multiple chains | [Repo](https://github.com/Open-Sorcerer/Giftwrap) | [Site](https://giftwrap-fil.vercel.app) | 🏅[ETHGlobal](https://ethglobal.com/showcase/giftwrap-omx82) |
 | DegenAsk | A social Q&A app on Base, pay to ask & earn when others peek into the answers. | | [Site](https://www.degenask.me/) | Based Fellowship |
 | OpinionSwap | Earn rewards by trading opinion on frames and create campaigns for opinion | | [Vercel](https://opinion-swap.vercel.app/) | 🏅[ETHGlobal](https://ethglobal.com/showcase/opinionswap-7i953) |
 | Dripcaster | It is a platform for Drip creators to sell digital products (videos, e-books, art) via Farcaster Frames. | [Repo](https://github.com/Open-Sorcerer/dripcaster) | [Site](https://dripcaster.xyz) | 🏅[Solana Renaissance Side Track](https://x.com/SuperteamEarn/status/1780936455206117883) |
